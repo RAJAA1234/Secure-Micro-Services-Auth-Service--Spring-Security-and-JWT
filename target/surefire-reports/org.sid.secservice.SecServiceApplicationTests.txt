@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sid.secservice.SecServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.778 s - in org.sid.secservice.SecServiceApplicationTests

@@ -1,0 +1,12 @@
+org\sid\secservice\sec\SecurityConfig.class
+org\sid\secservice\sec\service\AccountService.class
+org\sid\secservice\sec\entities\AppUser.class
+org\sid\secservice\sec\service\AccountServiceImpl.class
+org\sid\secservice\sec\filters\JwtAuthenticationFilter.class
+org\sid\secservice\sec\helpers\RoleUserForm.class
+org\sid\secservice\SecServiceApplication.class
+org\sid\secservice\sec\dao\AppUserRepository.class
+org\sid\secservice\sec\dao\AppRoleRepository.class
+org\sid\secservice\sec\web\AccountRestController.class
+org\sid\secservice\sec\SecurityConfig$1.class
+org\sid\secservice\sec\entities\AppRole.class
